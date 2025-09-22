@@ -1,16 +1,36 @@
-## Hi there 👋
+## ¡Hola! 👋 soy Fernando
 
 <!--
-**FerVIII/FerVIII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**FerVIII/FerVIII** es un repositorio ✨ _especial_ ✨ porque este `README.md` aparece en tu perfil de GitHub.
 -->
+
+### 🔭 Actualmente estoy trabajando en
+- Proyectos **fullstack** con Python y JavaScript  
+- Integrar **IA en aplicaciones web**  
+- Automatización y experimentos tecnológicos personales
+
+### 🌱 Actualmente estoy aprendiendo
+- React avanzado y **Node.js fullstack**  
+- Mejores prácticas de desarrollo profesional  
+- Deploy y optimización de aplicaciones web
+
+### 👯 Busco colaborar en
+- Proyectos con integración de **IA**  
+- Aplicaciones web prácticas y con impacto real  
+- Ideas de negocio online o startups tecnológicas
+
+### 🤔 Busco ayuda con
+- Buenas prácticas de **arquitectura fullstack**  
+- Integración eficiente de **IA** en proyectos reales
+
+### 💬 Pregúntame sobre
+- Desarrollo web fullstack  
+- Automatización y optimización tecnológica  
+- Inteligencia artificial aplicada a proyectos prácticos
+
+### 📫 Cómo contactarme
+- Email: fernandogridur@gmail.com  
+
+
+### ⚡ Curiosidad divertida
+- Entreno, bebo agua entre semana, y tengo dos mini superhéroes en casa que me inspiran cada día 😄
